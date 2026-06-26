@@ -25,11 +25,11 @@ requirements.txt
 ## Requirements
 
 - Python 3.x
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from scipy import stats
-from scipy.stats import linregress
+- numpy
+- pandas
+- matplotlib.pyplot
+- scipy stats
+- scipy.stats linregress
 
 
 ## Data
