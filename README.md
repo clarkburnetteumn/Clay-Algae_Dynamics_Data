@@ -14,7 +14,7 @@ data/
     raw/            # Original data
     processed/      # Processed datasets used for analysis
 
-scripts/
+notebooks/
     HAB_publication_figures.ipynb
 
 
@@ -35,6 +35,7 @@ from scipy.stats import linregress
 ## Data
 
 Raw data are located in `data/raw/`.
+Save all raw data to same folder as notebook to properly generate figures.
 
 Processed datasets used to generate the figures are located in `data/processed/`.
 
